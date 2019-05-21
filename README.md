@@ -11,14 +11,14 @@ You'll get a list of items. It should prompt you to make a choice.
 
 I chose 6 it will ask how many you would like....
 
-screenshot11
+screenshot11 https://github.com/sgttenor/screenshots/blob/master/screenshot11.PNG
 
 it will ask if you want to continue
 
-screenshot12
+screenshot12 https://github.com/sgttenor/screenshots/blob/master/screenshot12.PNG
 
 Success!!
 
-screenshot 13
+screenshot 13https://github.com/sgttenor/screenshots/blob/master/screenshot13.PNG
 
 I like the game so much I wanted to order more but get quantity stock is down to 5.
