@@ -18,7 +18,7 @@ it will ask if you want to continue
 screenshot12 https://github.com/sgttenor/screenshots/blob/master/screenshot12.PNG
 
 Success!!
-
-screenshot 13https://github.com/sgttenor/screenshots/blob/master/screenshot13.PNG
+https://github.com/sgttenor/screenshots/blob/master/screenshot14.PNG
 
 I like the game so much I wanted to order more but get quantity stock is down to 5.
+screenshot 13https://github.com/sgttenor/screenshots/blob/master/screenshot13.PNG
