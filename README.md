@@ -7,7 +7,7 @@ Format: ![screen9](url)
 
 You'll get a list of items. It should prompt you to make a choice. 
 ![screenshot10](https://github.com/sgttenor/screenshots/blob/master/Screenshot10.PNG)
-Format: ![screen10](url)
+[screen10](url)
 
 
 I chose 6. It will ask how many you would like....
