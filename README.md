@@ -33,25 +33,36 @@ We can also allow a psuedo-manager look at the list of available purchases, low 
 
 We start by console logging in 'node bamazonManager.js'.....
 
-![screenshot15](https://github.com/sgttenor/screenshots/blob/master/screenshot15..PNG)
+![screenshot15](https://github.com/sgttenor/screenshots/blob/master/screenshot15.PNG)
 
 The console will provide a list of things to choose from.....
 
-![screenshot16](https://github.com/sgttenor/screenshots/blob/master/screenshot16..PNG)
+![screenshot16](https://github.com/sgttenor/screenshots/blob/master/screenshot16.PNG)
 
 'View all products' will give us the same table as above in screenshot12
 
 We'll choose 'View Low Inventory'... and it will show all the product that have quantities of 5 or less. Then prompt the same list
 
-![screenshot17](https://github.com/sgttenor/screenshots/blob/master/screenshot17..PNG)
+![screenshot17](https://github.com/sgttenor/screenshots/blob/master/screenshot17.PNG)
 
 'Add to Inventory" will add more stock to the list of choices available.
 
-![screenshot18](https://github.com/sgttenor/screenshots/blob/master/screenshot18..PNG)
-
 We'll add more stock to God of War....
 
-We'll add 20
-
-
+![screenshot18](https://github.com/sgttenor/screenshots/blob/master/screenshot18..PNG)
 ![screenshot19](https://github.com/sgttenor/screenshots/blob/master/screenshot19..PNG)
+
+We'll add 20
+![screenshot20](https://github.com/sgttenor/screenshots/blob/master/Screenshot20.PNG)
+
+'God of War' was updated by 20 to 25
+
+![screenshot22](https://github.com/sgttenor/screenshots/blob/master/screenshot22.PNG)
+
+'Add New Product' will add a product to the table.
+We'll add Red Dead Redemption to the Video-Games department with price and quantity.
+
+![screenshot22](https://github.com/sgttenor/screenshots/blob/master/screenshot26.PNG)
+
+
+
