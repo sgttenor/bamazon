@@ -10,18 +10,22 @@ You'll get a list of items. It should prompt you to make a choice.
 Format: ![screen10](url)
 
 
-
-
-I chose 6 it will ask how many you would like....
-
-screenshot11 https://github.com/sgttenor/screenshots/blob/master/screenshot11.PNG
+I chose 6. It will ask how many you would like....
+![screenshot11]( https://github.com/sgttenor/screenshots/blob/master/screenshot11.PNG)
+Format: ![screen12](url)
 
 it will ask if you want to continue
 
-screenshot12 https://github.com/sgttenor/screenshots/blob/master/screenshot12.PNG
+![screenshot12](https://github.com/sgttenor/screenshots/blob/master/screenshot12.PNG)
+Format: ![screen12](url)
 
 Success!!
-https://github.com/sgttenor/screenshots/blob/master/screenshot14.PNG
+
+![screenshot14](https://github.com/sgttenor/screenshots/blob/master/screenshot14.PNG)
+Format: ![screen14](url)
 
 I like the game so much I wanted to order more but get quantity stock is down to 5.
-screenshot 13https://github.com/sgttenor/screenshots/blob/master/screenshot13.PNG
+
+![screenshot13](https://github.com/sgttenor/screenshots/blob/master/screenshot13.PNG)
+Format: ![screen13](url)
+
