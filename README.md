@@ -49,8 +49,7 @@ We'll choose 'View Low Inventory'... and it will show all the product that have 
 
 We'll add more stock to God of War....
 
-![screenshot18](https://github.com/sgttenor/screenshots/blob/master/screenshot18..PNG)
-![screenshot19](https://github.com/sgttenor/screenshots/blob/master/screenshot19..PNG)
+![screenshot19](https://github.com/sgttenor/screenshots/blob/master/Screenshot19.PNG)
 
 We'll add 20
 ![screenshot20](https://github.com/sgttenor/screenshots/blob/master/Screenshot20.PNG)
