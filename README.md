@@ -61,7 +61,11 @@ We'll add 20
 'Add New Product' will add a product to the table.
 We'll add Red Dead Redemption to the Video-Games department with price and quantity.
 
-![screenshot22](https://github.com/sgttenor/screenshots/blob/master/screenshot26.PNG)
+![screenshot26](https://github.com/sgttenor/screenshots/blob/master/screenshot26.PNG)
+
+Red Dead Redemption was added successfully
+
+![screenshot27](https://github.com/sgttenor/screenshots/blob/master/screenshot27.PNG)
 
 
 
