@@ -2,7 +2,8 @@ In this app, we'll mimic a store like Amazon that will be like a store front whe
 
 Using the bamazonCustomer.js file will prompt you with a list of items with IDs. Type in 'node bamazonCustomer.js'...
 
-ScreenShot1
+![screenshot9](https://github.com/sgttenor/screenshots/blob/master/screenshot9..PNG)
+Format: ![screen9](url)
 
 You'll get a list of items. It should prompt you to make a choice. 
 ![screenshot10](https://github.com/sgttenor/screenshots/blob/master/Screenshot10.PNG)
